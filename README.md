@@ -1,7 +1,7 @@
 Hi there, I'm a Quality Assurance Engineer 👋
 ==
 
-Introduce me Rio Adistya Saputra usually called Rio. I am currently studying at UNEJ majoring in Information Systems and I really like Programming Test, especially in the field of Sofware Testing.
+Introduce me Rio Adistya Saputra usually called Rio. I am majoring Information System at Universitas Jember and I really like Programming Test, especially in the field of Sofware Testing.
 
 - 👋 Hi, I’m @RioAdistya
 - 👀 I’m interested in ...
